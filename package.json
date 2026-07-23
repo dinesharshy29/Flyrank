@@ -1,0 +1,12 @@
+{
+  "name": "fltrank",
+  "version": "0.1.0",
+  "description": "AI-assisted capstone starter repository",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "engines": {
+    "node": ">=24.0.0"
+  }
+}
