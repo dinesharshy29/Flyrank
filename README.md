@@ -28,8 +28,23 @@ npm install
 npm test
 ```
 
+3. Run the entrypoint directly
+
+```bash
+npm start
+```
+
+## Project Files
+
+- `README.md` — project overview and setup instructions
+- `CLAUDE.md` — AI assistant conventions and rules
+- `package.json` — Node.js project manifest
+- `.gitignore` — ignored files for Git
+- `LICENSE` — project license
+
 ## Conventions
 
 - Use Conventional Commits for every change
 - Keep documentation up to date
 - Use `CLAUDE.md` for AI assistant guidance
+- Keep the project small and dependency-free
